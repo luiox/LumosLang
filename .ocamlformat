@@ -1,0 +1,30 @@
+# 行宽度限制
+max_width: 80
+
+# 缩进
+indent: 2
+
+# 对齐
+align_closing: true
+break_infix: true
+
+# 空格
+space_before_semicolon: true
+space_around_variant_constructor: false
+
+# 换行
+break_before_first_argument: true
+break_after_function: true
+break_infix_function_parameters: true
+
+# 对齐列表
+list_style: [always_wrap]
+
+# 对齐模式匹配
+match_with_indent: true
+
+# 箭头函数
+break_arrow: true
+
+# 多行注释
+multiline_comment: true

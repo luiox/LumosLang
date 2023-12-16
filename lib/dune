@@ -1,0 +1,7 @@
+(library
+ (name LumosLang))
+
+(menhir 
+ (modules lumos_paser))
+
+(ocamllex lumos_lexer)
